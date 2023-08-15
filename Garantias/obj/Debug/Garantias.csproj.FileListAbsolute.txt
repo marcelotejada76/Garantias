@@ -1,0 +1,10 @@
+D:\proyectos c#\Garantias\Garantias\bin\Debug\Garantias.exe.config
+D:\proyectos c#\Garantias\Garantias\bin\Debug\Garantias.exe
+D:\proyectos c#\Garantias\Garantias\bin\Debug\Garantias.pdb
+D:\proyectos c#\Garantias\Garantias\bin\Debug\IBM.Data.DB2.iSeries.dll
+D:\proyectos c#\Garantias\Garantias\bin\Debug\IBM.Data.DB2.iSeries.xml
+D:\proyectos c#\Garantias\Garantias\obj\Debug\Garantias.csprojAssemblyReference.cache
+D:\proyectos c#\Garantias\Garantias\obj\Debug\Garantias.csproj.CoreCompileInputs.cache
+D:\proyectos c#\Garantias\Garantias\obj\Debug\Garantias.csproj.CopyComplete
+D:\proyectos c#\Garantias\Garantias\obj\Debug\Garantias.exe
+D:\proyectos c#\Garantias\Garantias\obj\Debug\Garantias.pdb
