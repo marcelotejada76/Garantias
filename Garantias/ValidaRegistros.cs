@@ -12,6 +12,7 @@ namespace Garantias
     {
         public static void valida_registro()
         {
+            //verifica conexion a la base de datos
 
             iDB2Connection con = new iDB2Connection(ConexionAs400.Conexion);
             con.Open();
