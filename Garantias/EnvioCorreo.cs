@@ -9,10 +9,16 @@ namespace Garantias
 {
     class EnvioCorreo
     {
+        //estado
+        private bool estado()
+        {
+            return true;
+        }
         /// <summary>
         /// metodo Datos Registros gf
         /// </summary>
         /// <param name="DatosRegistros"></param>
+        /// 
         public static void EnviarCorreo( string DatosRegistros)
         {
             string sTextoMail = string.Empty;
