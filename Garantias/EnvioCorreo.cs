@@ -10,7 +10,7 @@ namespace Garantias
     class EnvioCorreo
     {
         /// <summary>
-        /// metodo Datos Registros
+        /// metodo Datos Registros gf
         /// </summary>
         /// <param name="DatosRegistros"></param>
         public static void EnviarCorreo( string DatosRegistros)
