@@ -10,7 +10,7 @@ namespace Garantias
     {
         static void Main(string[] args)
         {
-
+            //prueba de cambio
             DateTime fecha = System.DateTime.Now;
 
             //string fechaVuelo = DateTime.Now.AddDays(-1).ToString("yyyyMMdd").ToUpper();
