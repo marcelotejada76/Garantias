@@ -12,7 +12,7 @@ namespace Garantias
         //estado
         private bool estado()
         {
-            return true;
+            return false;
         }
         /// <summary>
         /// metodo Datos Registros gf
